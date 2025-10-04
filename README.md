@@ -166,16 +166,18 @@ It provides a **self-contained, reproducible** demonstration of data warehousing
 
 ---
 
-## 📬 Connect With Me
+---
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/rayyan-merchant](https://www.linkedin.com/in/rayyanmerchant2004/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rayyanmerchant16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" alt="Email"/>
-  </a>
-  <a href="https://github.com/rayyan-merchant" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge" alt="GitHub"/>
-  </a>
-</p>
+## 📢 Connect with Me  
+<div align="center">
+    <a href="https://www.linkedin.com/in/rayyanmerchant2004/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:merchantrayyan43@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/rayyan-merchant" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+</div>
+
